@@ -96,7 +96,7 @@ PyTorch • FastAPI • React • TypeScript • TailwindCSS
 
 Repository:
 
-https://github.com/Nikhil001/ecg-arrhythmia-system
+https://github.com/Nikhil0o1/ecg-arrhythmia-detection-system
 
 ---
 
@@ -124,6 +124,6 @@ FastAPI • LangChain • FAISS • Mistral LLM • React • TailwindCSS
 
 <p align="center">
 
-<a href="https://github.com/Nikhil001">GitHub</a> • <a href="https://linkedin.com">LinkedIn</a>
+<a href="https://github.com/Nikhil0o1">GitHub</a> • <a href="https://www.linkedin.com/in/nikhil-vardhan-b4229a252/">LinkedIn</a>
 
 </p>
