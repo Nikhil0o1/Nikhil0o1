@@ -1,129 +1,144 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=250&section=header&text=Nikhil%20M&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=26D0CE&center=true&vCenter=true&width=700&lines=AI+Engineer;Deep+Learning+Developer;LLM+Systems+Builder;FastAPI+Backend+Architect;React+AI+Interface+Designer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=700&lines=Nikhil+M;Aspiring+AI+Engineer;Aspiring+Full+Stack+Developer" />
 </p>
 
 ---
 
-# 👋 Hi, I'm Nikhil M
+## About
 
-AI Engineer building **production-grade AI systems** using deep learning, LLM pipelines, and scalable backend architecture.
+I am an **aspiring AI Engineer and Full Stack Developer** interested in building practical systems that combine machine learning with real-world software applications.
 
----
+Currently exploring areas like **retrieval-based AI systems, deep learning, and interactive AI tools**.
 
-## 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Nikhil001&label=Profile%20Views&color=blue&style=for-the-badge" />
-</p>
-
----
-
-# 🚀 About Me
-
-• 🧠 Deep Learning & AI Systems
-• 🤖 LLM + RAG Architectures
-• ⚡ FastAPI Backend Development
-• 📊 ML Model Training & Deployment
-• 🎨 React + TypeScript AI Interfaces
+- Computer Science graduate  
+- Interested in AI systems and backend development  
+- Learning how to design end-to-end ML applications  
+- Enjoy building projects that combine **machine learning + software engineering**
 
 ---
 
-# ⚙️ Tech Stack
+# Projects
 
-<p align="center">
+## DocuBrain — AI Research Assistant
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,react,typescript,tailwind,nodejs,git,linux,docker" />
+A document question-answering system that allows users to upload PDFs and ask questions about them.
 
-</p>
+The system retrieves relevant sections from documents and generates answers with **citations and evidence highlighting directly in the PDF**.
 
----
+**Key Features**
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nikhil001&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil001&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Nikhil001&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nikhil001&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🚀 Featured AI Projects
-
-## 🫀 ECG Arrhythmia Detection System
-
-Deep learning system for detecting **cardiac arrhythmias from 12-lead ECG signals** using the **PTB-XL dataset**.
+- Streaming AI responses  
+- Semantic document chunking  
+- Vector search using FAISS  
+- Interactive PDF viewer with evidence highlights  
+- Evidence trace interaction connecting answers to source text  
 
 **Tech Stack**
 
-PyTorch • FastAPI • React • TypeScript • TailwindCSS
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=fastapi" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=nextjs" />
 
-Repository:
+</p>
 
-https://github.com/Nikhil0o1/ecg-arrhythmia-detection-system
+Additional tools:  
+LangChain · FAISS · Mistral (via Ollama)
+
+Repository:  
+https://github.com/Nikhil0o1/DocuBrain
 
 ---
 
-## 📄 DocuMind AI
+## ECG Arrhythmia Detection System
 
-AI-powered **document intelligence system** that allows users to upload PDFs and query them using **LLM + Retrieval-Augmented Generation**.
+Deep learning model for detecting cardiac arrhythmias from ECG signals.
+
+**Highlights**
+
+- 12-lead ECG signal processing  
+- CNN-based classification model  
+- CUDA accelerated training  
+- Model evaluation with confusion matrix and ROC metrics  
+- Real-time prediction simulation  
 
 **Tech Stack**
 
-FastAPI • LangChain • FAISS • Mistral LLM • React • TailwindCSS
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=pytorch" />
+<img src="https://skillicons.dev/icons?i=anaconda" />
+</p>
 
 ---
 
-# 🎬 Project Demo
+# Technical Skills
 
-<p align="center">
+### Languages
 
-<img src="https://raw.githubusercontent.com/Nikhil001/ecg-arrhythmia-system/main/assets/animations.gif" width="900"/>
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=java" />
 
 </p>
 
 ---
 
-# 📫 Connect With Me
+### AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch" />
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+Additional tools:  
+LangChain · FAISS · Transformers · Vector Search
+
+---
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
+</p>
+
+---
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=nextjs" />
+<img src="https://skillicons.dev/icons?i=tailwind" />
+</p>
+
+---
+
+# Currently Learning
+
+- Advanced Retrieval-Augmented Generation (RAG)
+- LLM application architecture
+- Backend system design
+- ML model deployment workflows
+
+---
+
+# Connect
+
+<p>
+<a href="https://github.com/Nikhil0o1">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+LinkedIn:  
+https://www.linkedin.com/in/nikhil-vardhan-b4229a252/
+
+---
 
 <p align="center">
-
-<a href="https://github.com/Nikhil0o1">GitHub</a> • <a href="https://www.linkedin.com/in/nikhil-vardhan-b4229a252/">LinkedIn</a>
-
+  <i>Trying to build useful AI systems one project at a time.</i>
 </p>
